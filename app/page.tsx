@@ -1,4 +1,4 @@
-import { BlogPosts } from 'app/components/posts'
+// import { BlogPosts } from 'app/components/posts'
 import {Experience} from 'app/components/exp'
 // import styles from './css/style.css'
 
